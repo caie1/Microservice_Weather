@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/details/details.iml" filepath="$PROJECT_DIR$/details/details.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.iml" filepath="$PROJECT_DIR$/weather.iml" />
+    </modules>
+  </component>
+</project>
